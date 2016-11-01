@@ -20,7 +20,7 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 ## Setup/Installation Requirements
 
-* _[Go here](https://medicciardi.github.io/ping-pong)_
+* _[Go here](https://medicciardi.github.io/code-review-three)_
 
 ## Technologies Used
 
